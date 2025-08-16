@@ -1,0 +1,21 @@
+[2025-08-16 09:09:14.868969] ⬆️  S3 PutObject key='example.txt' size=66 bytes
+[2025-08-16 09:09:15.114952] 🗄️  DynamoDB PutItem filename='example.txt'
+[2025-08-16 09:09:15.116085] ✅ Lambda processed 'example.txt' (66 bytes, text/plain)
+[2025-08-16 09:09:21.074298] ⬆️  S3 PutObject key='CloudTrail.png' size=267477 bytes
+[2025-08-16 09:09:21.165333] 🗄️  DynamoDB PutItem filename='CloudTrail.png'
+[2025-08-16 09:09:21.166273] ✅ Lambda processed 'CloudTrail.png' (267477 bytes, image/png)
+[2025-08-16 09:09:26.085210] ⬆️  S3 PutObject key='example.txt' size=66 bytes
+[2025-08-16 09:09:26.112302] 🗄️  DynamoDB PutItem filename='example.txt'
+[2025-08-16 09:09:26.115043] ✅ Lambda processed 'example.txt' (66 bytes, text/plain)
+[2025-08-16 09:09:30.093530] ⬆️  S3 PutObject key='Myresume.pdf' size=203260 bytes
+[2025-08-16 09:09:30.180325] 🗄️  DynamoDB PutItem filename='Myresume.pdf'
+[2025-08-16 09:09:30.181488] ✅ Lambda processed 'Myresume.pdf' (203260 bytes, application/pdf)
+[2025-08-16 09:09:50.855206] ⬆️  S3 PutObject key='CloudTrail.png' size=267477 bytes
+[2025-08-16 09:09:50.934685] 🗄️  DynamoDB PutItem filename='CloudTrail.png'
+[2025-08-16 09:09:50.943008] ✅ Lambda processed 'CloudTrail.png' (267477 bytes, image/png)
+[2025-08-16 09:09:51.005119] ⬆️  S3 PutObject key='example.txt' size=66 bytes
+[2025-08-16 09:09:51.149349] 🗄️  DynamoDB PutItem filename='example.txt'
+[2025-08-16 09:09:51.151572] ✅ Lambda processed 'example.txt' (66 bytes, text/plain)
+[2025-08-16 09:09:51.284981] ⬆️  S3 PutObject key='Myresume.pdf' size=203260 bytes
+[2025-08-16 09:09:51.394133] 🗄️  DynamoDB PutItem filename='Myresume.pdf'
+[2025-08-16 09:09:51.395743] ✅ Lambda processed 'Myresume.pdf' (203260 bytes, application/pdf)

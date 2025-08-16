@@ -1,0 +1,65 @@
+[
+  {
+    "filename": "example.txt",
+    "size_bytes": 66,
+    "mime_type": "text/plain",
+    "sha256": "f0b695566133445afa87e6c0298444d1a4a7872fb203d559ec7cc9db4bb9042e",
+    "line_count": 3,
+    "processed_utc": "2025-08-16T09:09:15Z",
+    "status": "Processed"
+  },
+  {
+    "filename": "CloudTrail.png",
+    "size_bytes": 267477,
+    "mime_type": "image/png",
+    "sha256": "f10beb132f1e3d2b68525843ef084733db6b59d30e382aace7384d9fe707e4ea",
+    "line_count": null,
+    "processed_utc": "2025-08-16T09:09:21Z",
+    "status": "Processed"
+  },
+  {
+    "filename": "example.txt",
+    "size_bytes": 66,
+    "mime_type": "text/plain",
+    "sha256": "f0b695566133445afa87e6c0298444d1a4a7872fb203d559ec7cc9db4bb9042e",
+    "line_count": 3,
+    "processed_utc": "2025-08-16T09:09:26Z",
+    "status": "Processed"
+  },
+  {
+    "filename": "Myresume.pdf",
+    "size_bytes": 203260,
+    "mime_type": "application/pdf",
+    "sha256": "73a9ad7c978c3325ccda9e91859ebc6690bece92b9a58c2670ed9684e674d1be",
+    "line_count": null,
+    "processed_utc": "2025-08-16T09:09:30Z",
+    "status": "Processed"
+  },
+  {
+    "filename": "CloudTrail.png",
+    "size_bytes": 267477,
+    "mime_type": "image/png",
+    "sha256": "f10beb132f1e3d2b68525843ef084733db6b59d30e382aace7384d9fe707e4ea",
+    "line_count": null,
+    "processed_utc": "2025-08-16T09:09:50Z",
+    "status": "Processed"
+  },
+  {
+    "filename": "example.txt",
+    "size_bytes": 66,
+    "mime_type": "text/plain",
+    "sha256": "f0b695566133445afa87e6c0298444d1a4a7872fb203d559ec7cc9db4bb9042e",
+    "line_count": 3,
+    "processed_utc": "2025-08-16T09:09:51Z",
+    "status": "Processed"
+  },
+  {
+    "filename": "Myresume.pdf",
+    "size_bytes": 203260,
+    "mime_type": "application/pdf",
+    "sha256": "73a9ad7c978c3325ccda9e91859ebc6690bece92b9a58c2670ed9684e674d1be",
+    "line_count": null,
+    "processed_utc": "2025-08-16T09:09:51Z",
+    "status": "Processed"
+  }
+]
