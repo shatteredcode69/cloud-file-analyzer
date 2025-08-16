@@ -4,17 +4,17 @@ A complete cloud-inspired project built in Python that simulates AWS services wi
 
 ✨ Features
 
-📂 S3 Simulation → Upload & store files locally
-⚙️ Lambda Function → Automatically processes files & extracts metadata
-🗄️ DynamoDB Mock → Stores metadata in structured JSON format
-📜 CloudWatch Logs → Logs every event with timestamps
-🌍 API Gateway Simulation → JSON-based request/response flow
-🖼️ Architecture Diagram → Visual representation of the system
+📂 S3 Simulation → Upload & store files locally,
+⚙️ Lambda Function → Automatically processes files & extracts metadata,
+🗄️ DynamoDB Mock → Stores metadata in structured JSON format,
+📜 CloudWatch Logs → Logs every event with timestamps,
+🌍 API Gateway Simulation → JSON-based request/response flow,
+🖼️ Architecture Diagram → Visual representation of the system.
 
 🛠️ Tech Stack
 
-Python 3.x (no external dependencies)
-Organized project structure (easy to run in VS Code)
+Python 3.x (no external dependencies),
+Organized project structure (easy to run in VS Code),
 End-to-end simulation: from upload → process → store → log
 
 💡 Why this project?
